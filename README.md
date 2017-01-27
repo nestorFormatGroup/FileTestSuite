@@ -26,3 +26,12 @@ File with the name "hirdina" and the ".kw"-Extension (in zip "Office_Files_1990s
 
 Remark about file "Geburtstage":
 * These are not real persons with their real birthdays. It was an example during a school lesson only.
+
+
+Test in january 2017
+Sigfried has an idea about the file format for all files except for:
+riceflÃ¤ch.dot'
+GS8_ZWKR.TXT'
+KRETA.TXT'
+
+For riceflÃ¤ch.dot' TRId and File Utility do not have any ideas, either and the file is supposedly empty. It has 0 kb and seems to be indeed empty.
