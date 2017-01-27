@@ -28,10 +28,15 @@ Remark about file "Geburtstage":
 * These are not real persons with their real birthdays. It was an example during a school lesson only.
 
 
-Test in january 2017
+Test in january 2017 with Siegfried, TRId and File Utility
 Sigfried has an idea about the file format for all files except for:
 riceflÃ¤ch.dot'
 GS8_ZWKR.TXT'
 KRETA.TXT'
 
 For riceflÃ¤ch.dot' TRId and File Utility do not have any ideas, either and the file is supposedly empty. It has 0 kb and seems to be indeed empty.
+
+Test in january 2017 with FITS-1.0.4 (JHOVE; DROIVE, File Utility)
+Droid has marked every file with a PUID, even the three Siegfried has not detected.
+JHOVE has nothing to say format-wise.
+File Utility was very scarce
