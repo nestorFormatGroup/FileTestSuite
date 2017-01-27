@@ -11,20 +11,18 @@ For the files in this repository the following conditions are true:
 Some information about the files
 
 File with the name "zahl" and the ".aw"-Extension (in zip "Office_Files_1990s")
-last edited: 23rd August 2003
-Format: Applix Words (application/x-applix-word)
-PUID: most likey x-fmt/326
-still renderable? Yes, with KDE Calligra Suite
-contributed by: Susanne Holl (Nachlass Friedrich Kittler)
-remarks: 
-*LibMagic (File) presumes .aw files to be "text/html", which is not correct,GVFSInfo marks them as "application/x-applix-word".
-* PRONOM marks .aw files as x-fmt/326, "Hewlett Packard AdvanceWrite Text File" (might be the same?)
+* last edited: 23rd August 2003
+* Format: Applix Words (application/x-applix-word)
+* PUID: most likey x-fmt/326
+* still renderable? Yes, with KDE Calligra Suite
+* contributed by: Susanne Holl (Nachlass Friedrich Kittler)
+* remarks: LibMagic (File) presumes .aw files to be "text/html", which is not correct,GVFSInfo marks them as "application/x-applix-word". PRONOM marks .aw files as x-fmt/326, "Hewlett Packard AdvanceWrite Text File" (might be the same?)
 
 File with the name "hirdina" and the ".kw"-Extension (in zip "Office_Files_1990s")
-last edited: 18th september 2003
-Format: KWord (application/x-kword)
-Cannot be opened as far as we know
-contributed by: Susanne Holl (Nachlass Friedrich Kittler)
+* last edited: 18th september 2003
+* Format: KWord (application/x-kword)
+* Cannot be opened as far as we know
+* contributed by: Susanne Holl (Nachlass Friedrich Kittler)
 
 Remark about file "Geburtstage":
-These are not real persons with their real birthdays. It was an example during a school lesson only.
+* These are not real persons with their real birthdays. It was an example during a school lesson only.
